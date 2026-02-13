@@ -1,0 +1,13 @@
+[package]
+name = "cssbox-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Standalone CSS layout engine — core algorithms"
+repository = "https://github.com/npow/cssbox"
+
+[features]
+default = ["std"]
+std = []
+
+[dependencies]

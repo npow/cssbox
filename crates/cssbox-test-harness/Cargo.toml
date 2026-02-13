@@ -1,0 +1,11 @@
+[package]
+name = "cssbox-test-harness"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "WPT test runner for cssbox layout engine"
+repository = "https://github.com/npow/cssbox"
+
+[dependencies]
+cssbox-core = { version = "0.1.0", path = "../cssbox-core" }
+cssbox-dom = { version = "0.1.0", path = "../cssbox-dom" }

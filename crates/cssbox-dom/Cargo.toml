@@ -1,0 +1,10 @@
+[package]
+name = "cssbox-dom"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "HTML/CSS parsing and style resolution for cssbox"
+repository = "https://github.com/npow/cssbox"
+
+[dependencies]
+cssbox-core = { version = "0.1.0", path = "../cssbox-core" }
