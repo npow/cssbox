@@ -3,7 +3,7 @@
 [![CI](https://github.com/npow/cssbox/actions/workflows/ci.yml/badge.svg)](https://github.com/npow/cssbox/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/cssbox-core.svg)](https://crates.io/crates/cssbox-core)
 [![docs.rs](https://img.shields.io/docsrs/cssbox-core)](https://docs.rs/cssbox-core)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Docs](https://img.shields.io/badge/docs-mintlify-18a34a?style=flat-square)](https://mintlify.com/npow/cssbox)
 
 A standalone CSS layout engine in Rust. HTML/CSS in, exact coordinates out.
 
